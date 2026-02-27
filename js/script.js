@@ -1,4 +1,4 @@
-const API_BASE = 'http://taskmanagerapp26.runasp.net/api/tasks';
+const API_BASE = '/api/tasks';
 
 let allTasks = [];
 let currentFilter = 'all';
